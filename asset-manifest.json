@@ -1,10 +1,27 @@
 {
   "files": {
-    "main.js": "/website-react-turnerduckworth/static/js/main.a34b81e2.js",
+    "main.css": "/website-react-turnerduckworth/static/css/main.8924d002.css",
+    "main.js": "/website-react-turnerduckworth/static/js/main.84aef0aa.js",
+    "static/media/prototype.png": "/website-react-turnerduckworth/static/media/prototype.aabcb2859edcfc7ecf15.png",
+    "static/media/Historic.ttf": "/website-react-turnerduckworth/static/media/Historic.c6e06ceb4efc13b1d115.ttf",
+    "static/media/amazon.svg": "/website-react-turnerduckworth/static/media/amazon.422fbafa6dc9eb616053ce1bbe12dec9.svg",
+    "static/media/fivetran.svg": "/website-react-turnerduckworth/static/media/fivetran.3a9fbc15e5ac916b290c7e16a19e56e0.svg",
+    "static/media/airbnb.svg": "/website-react-turnerduckworth/static/media/airbnb.71ac719a61bc4fff84c0d499fc3017b5.svg",
+    "static/media/hopin.svg": "/website-react-turnerduckworth/static/media/hopin.e72657eee93f998f5a54a7c8bd23da53.svg",
+    "static/media/insta.svg": "/website-react-turnerduckworth/static/media/insta.4d1567b0c4fc55e38b13bc123bf05858.svg",
+    "static/media/be.svg": "/website-react-turnerduckworth/static/media/be.27214599ca6b042bfe98213b5638cade.svg",
+    "static/media/logotype.svg": "/website-react-turnerduckworth/static/media/logotype.6a4e3c673f253609782d7d2becf6e7cc.svg",
+    "static/media/dribbble.svg": "/website-react-turnerduckworth/static/media/dribbble.b5cf085352b5f608ebd490a382844e00.svg",
+    "static/media/spacex.svg": "/website-react-turnerduckworth/static/media/spacex.3a99ec8b811a0509006d4d908b1cef0e.svg",
+    "static/media/tesla.svg": "/website-react-turnerduckworth/static/media/tesla.9107d6822ba2fd1e38da300ef09af3a7.svg",
     "index.html": "/website-react-turnerduckworth/index.html",
-    "main.a34b81e2.js.map": "/website-react-turnerduckworth/static/js/main.a34b81e2.js.map"
+    "static/media/cursor.svg": "/website-react-turnerduckworth/static/media/cursor.031bb23ad9574ce8f1ea.svg",
+    "static/media/telegram.svg": "/website-react-turnerduckworth/static/media/telegram.356e1968650cf10aaa8862d6da06b42f.svg",
+    "main.8924d002.css.map": "/website-react-turnerduckworth/static/css/main.8924d002.css.map",
+    "main.84aef0aa.js.map": "/website-react-turnerduckworth/static/js/main.84aef0aa.js.map"
   },
   "entrypoints": [
-    "static/js/main.a34b81e2.js"
+    "static/css/main.8924d002.css",
+    "static/js/main.84aef0aa.js"
   ]
 }
