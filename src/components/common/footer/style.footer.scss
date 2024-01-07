@@ -1,0 +1,48 @@
+.footer-logotype {
+  width: 100%;
+  text-align: center;
+  margin-top: 43px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-container--left {
+  font-family: var(--primary-font);
+  font-size: 25px;
+  font-weight: 300;
+  color: #000000;
+  max-width: 521px;
+}
+
+.footer-container--contacts {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  margin-top: 22px;
+}
+
+.contacts {
+  display: flex;
+  align-items: center;
+  gap: 38px;
+  margin-bottom: 27px;
+}
+
+.brief-btn {
+  font-family: var(--primary-font);
+  font-weight: 300;
+  color: #6A6969;
+  font-size: 44px;
+  line-height: 120%;
+  & span {
+    transition: var(--transition);
+    border-bottom: 1px solid transparent;
+  }
+
+  & span:hover {
+    border-color: #6A6969;
+  }
+}

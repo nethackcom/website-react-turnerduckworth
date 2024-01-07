@@ -1,0 +1,23 @@
+.show-more {
+  margin-top: 50px;
+  width: 100%;
+  text-align: center;
+
+  & a {
+    font-size: 44px;
+    font-weight: 300;
+    color: #6A6969;
+    transition: var(--transition);
+  }
+
+  & span {
+    border-bottom: 1px solid transparent;
+  }
+
+  & a:hover {
+    color: var(--primary-color);
+    span {
+      border-bottom-color: var(--primary-color);
+    }
+  }
+}

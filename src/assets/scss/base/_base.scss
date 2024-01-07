@@ -1,0 +1,46 @@
+body {
+  font-family: var(--primary-font);
+}
+
+.container {
+  padding: 0 10px;
+}
+
+.logotype {
+  font-family: var(--secondary-font);
+  font-weight: 400;
+  font-size: 49px;
+  color: #000000;
+  transition: var(--transition);
+
+  &:hover {
+    letter-spacing: 5px;
+  }
+}
+
+.text-orange {
+  color: var(--primary-color);
+}
+
+.order-design-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 142px;
+  height: 142px;
+  border-radius: 100%;
+  background-color: var(--primary-color);
+  font-family: var(--primary-font);
+  color: #fff;
+  font-size: 17px;
+  line-height: 120%;
+  font-weight: 400;
+
+  & span {
+    transition: var(--transition);
+  }
+
+  &:hover span {
+    transform: scale(1.2);
+  }
+}

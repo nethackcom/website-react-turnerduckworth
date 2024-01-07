@@ -1,0 +1,16 @@
+.personnel-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin-top: 100px;
+}
+
+.person--image {
+  min-width: 308px;
+  min-height: 251px;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

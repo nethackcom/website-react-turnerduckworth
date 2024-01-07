@@ -1,0 +1,39 @@
+.team-hero-container--image-left {
+  min-width: 413px;
+  height: 145px;
+}
+
+.team-hero-container--right-text {
+  display: block;
+  font-size: 24px;
+  color: #000000;
+  font-weight: 300;
+  width: 413px;
+  margin-top: 24px;
+  margin-left: 10px;
+}
+
+.team-hero-container--center {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  z-index: 1000;
+}
+
+.team-hero-container--left {
+  width: 30%;
+}
+
+.team-hero-container--right {
+  width: 51%;
+}
+
+.team-hero-container--image-right {
+  min-width: 635px;
+  min-height: 276px;
+}
+
+.team-hero-container--center .hero-container--title span {
+  line-height: 0%;
+}
